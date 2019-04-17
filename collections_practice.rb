@@ -3,6 +3,7 @@ def sort_array_asc(ints)
     a <=> b
   end
 end
+<<<<<<< HEAD
 
 def sort_array_desc(ints)
   ints.sort do |a, b|
@@ -66,3 +67,5 @@ def add_s(array)
   end
   array
 end
+=======
+>>>>>>> 8bbacded011032d183d88847ec3aa75c895de0d5
